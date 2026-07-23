@@ -1,0 +1,42 @@
+Exercicio 4 - Escreva o pseudocódigo de um caixa eletrônico simples
+
+VARIAVEIS
+valor, saldo: REAL
+opcao: INTEIRO
+
+INICIO 
+saldo <- 1000
+
+    REPITA 
+        ESCREVA "1-saldo, 2-sacar, 3-depositar, 4-sair"
+        LEIA opcao
+
+        SE opcao = 1
+            ENTÃO "saldo: ", saldo
+        FIM SE
+        
+        SE opcao = 2
+            ESCREVA "Valor: "
+            LEIA valor
+            SE valor <= saldo ENTAO
+                saldo <- saldo - valor
+                ESCREVA "Novo saldo: ", saldo
+            SENÃO
+                ESCREVA "Saldo insuficiente"
+            FIM SE
+        FIM SE
+
+        SE opcao = 3
+            ESCREVA "Valor: "
+            LEIA valor
+            saldo <- saldo + valor
+            ESCREVA "Saldo atual: ", saldo
+        FIM SE
+
+    ATÉ opcao = 4
+    
+    ESCREVA "Fim"
+
+FIM
+        
+

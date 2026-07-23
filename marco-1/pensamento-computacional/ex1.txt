@@ -1,0 +1,7 @@
+Exercicio 1 - Escrever um algoritmo para calcular o IMC
+
+Receber a altura
+Receber o peso
+multiplica altura por ela mesma 
+divide o resultado por dois
+resultado do imc

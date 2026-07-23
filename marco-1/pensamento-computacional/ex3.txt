@@ -1,0 +1,10 @@
+Exercicio 3 - Identifique entradas, processamento e saídas de uma calculadora
+
+entradas 
+    dois ou mais numeros
+
+processamento
+    adição, subtração, multiplicação ou divisão dos numeros recebidos
+
+Sáidas
+    Numero calculado

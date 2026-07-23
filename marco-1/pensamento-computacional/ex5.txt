@@ -1,0 +1,25 @@
+Exercicio 5 - Escolha um aplicativo que você utiliza diariamente 
+(como WhatsApp, Spotify ou YouTube) e decomponha-o em módulos e submódulos.
+
+WhatsApp
+
+módulos
+1. Conversas
+    Enviar texto
+    Enviar áudio
+    Enviar imagem
+    Enviar vídeo
+    Enviar emoji
+    Enviar figurinha
+    Receber mensagem
+    Excluir mensagem
+    Excluir Conversa
+2. Ligação
+    Fazer Ligação
+    Desligar ligação
+    Receber ligação
+    Mutar ligação
+3. Grupo
+    Criar Grupo
+    Adicionar participantes
+    Excluir grupo

@@ -1,0 +1,7 @@
+Exercicio 2 - Divida um sistema de agenda em pequenas funcionalidades
+
+1. Agendar data e horário
+2. Alterar data e horário
+3. Excluir agendamento
+4. Pesquisar agendamento
+5. Ver histórico de agendamentos
