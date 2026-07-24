@@ -1,0 +1,6 @@
+# Exercicio 1 - Classifique os seguintes valores: 15, "python", False, 8.9
+
+15: Inteiro
+"python": String
+False: Booleano
+8.9: Ponto Flutuante

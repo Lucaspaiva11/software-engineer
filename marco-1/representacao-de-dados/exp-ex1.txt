@@ -1,0 +1,5 @@
+# Exercicio 1 - Identifique quais dos exemplos abaixo são expressões:
+    - 10 + 5 -> Expressão
+    - idade -> variavel
+    - preco * quantidade -> Expressão
+    - 42 -> valor

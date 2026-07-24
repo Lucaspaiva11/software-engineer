@@ -1,0 +1,7 @@
+# Exercicio 4 - Modele os tipos necessários para um sistema de cadastro de veículos.
+
+Modelo: String
+Marca: String
+Placa: String
+Ano do carro: Inteiro
+Carro licenciado: Booleano

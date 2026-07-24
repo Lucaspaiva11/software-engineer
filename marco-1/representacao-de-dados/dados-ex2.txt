@@ -1,0 +1,7 @@
+# Exercicio 2 - Liste cinco informações que um sistema de biblioteca precisa armazenar e indique o tipo mais adequado para cada uma.
+
+autor: String
+nome do livro: String
+estoque: Inteiro
+nota do livro: Ponto Flutuante
+livro disponível: Booleano

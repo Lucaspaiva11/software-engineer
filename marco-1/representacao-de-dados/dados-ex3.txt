@@ -1,0 +1,4 @@
+# Exercicio 3 - Explique, com suas palavras, a diferença entre dado e informação.
+
+dado - valor isolado, ainda sem contexto
+informação - Dado interpretado em um contexto

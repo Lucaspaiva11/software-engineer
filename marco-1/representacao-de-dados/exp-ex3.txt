@@ -1,0 +1,5 @@
+# Exercicio 3 - Explique por que saldo + 100 não altera a variável saldo.
+
+saldo + 100 não altera a variavel saldo pois isso é uma expressão, ou seja,
+ela produz um novo valor e não atribui a variavel saldo.
+Para alterar a saldo deve se atribuir a expressão a ela -> saldo = saldo + 100

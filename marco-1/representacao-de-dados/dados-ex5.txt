@@ -1,0 +1,8 @@
+# Exercicio 5 - Modele os tipos para um sistema de pedidos de restaurante.
+
+Comida: String
+Preço: Float
+Quantidade: Int
+Endereço: String
+Restaurante: String
+Avaliação: Float
