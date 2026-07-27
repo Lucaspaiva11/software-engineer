@@ -327,3 +327,22 @@ if not ativo:
 ```
 
 Essa é a convenção utilizada pela comunidade Python.
+
+---
+## Boas Práticas
+
+- Prefira operadores compostos quando atualizam a mesma variável.
+- Utilize parênteses para deixar a intenção explícita.
+- Escreva expressões curtas.
+- Divida cálculos complexos em etapas.
+- Nomeie resultados intermediários.
+
+---
+# 📖 Resumo
+
+| Conceito | Definição |
+| --- | --- |
+| Operador de atribuição composta | Combina uma operação e uma atribuição (`+=`, `-=`, etc.) |
+| Precedência | Ordem em que os operadores são avaliados |
+| Legibilidade | Clareza e facilidade de compreensão do código |
+| Expressão composta | Combinação de operadores aritméticos, relacionais e lógicos |
